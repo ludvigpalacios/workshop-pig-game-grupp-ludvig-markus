@@ -137,9 +137,14 @@ i {
 
 
 .dice {
+    
     height: 10rem;
     box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.10);
     margin-bottom: 3rem;
+}
+
+.hidden {
+    display:none;
 }
 
 .final-score {
